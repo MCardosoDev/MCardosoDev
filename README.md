@@ -1,7 +1,7 @@
-## I'm Marcelo Cardoso, working remotely since 2014 👨‍💻 and currently an analytics engineer and data scientist in development 🚀
+## I'm Marcelo Cardoso, working remotely since 2014 👨‍💻 and I'm currently a data scientist 🚀
 
 ### 💫 About Me:
-🔭 I’m currently working with Data Science<br>🤝 I’m looking for help with Deep Learning<br>🌱 I’m currently learning Spark e Airflow<br>💬 Ask me about Python, C#, SQL, ETL, PowerBI, Metabase, Tableau, Storytelling with data, Databricks, ML models.
+🔭 I’m currently working with Data Science<br>🤝 I’m looking for help with Deep Learning<br>🌱 I’m currently learning Time Series, Spark and Airflow<br>💬 Ask me about Clustering, Classification and Regression models. Python, C#, SQL, ETL, Data Viz, Storytelling with data, Databricks.
 
 
 ## 🌐 Socials:
